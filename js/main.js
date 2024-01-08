@@ -13,13 +13,13 @@ while (contatore < shoppingItems.length) {
     contatore++; 
 }
 
-// ? Fatto con ciclo for -----------------------------
+// Fatto con ciclo for -----------------------------
 
 // for (let i = 0; i < shoppingItems.length; i++) {
 //     message += `<li>${shoppingItems[contatore]}<li>`
 // }
 
-// ? ----------------------------------------------------
+// ----------------------------------------------------
 
 
 message += '<ul>'
